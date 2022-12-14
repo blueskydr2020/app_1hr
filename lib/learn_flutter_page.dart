@@ -114,7 +114,7 @@ class _LearnFlutterPageState extends State<LearnFlutterPage> {
                     isCheckbox = newBool;
                   });
                 }),
-                Image.network('https://wallpaperaccess.com/full/1909531.jpg')
+                Image.network('https://wallpaperaccess.com/full/1909531.jpg'),
           ],
         ),
       ),
