@@ -1,0 +1,10 @@
+D:/Users/WM/Documents/app_1hr/build/windows/runner/Release/data/icudtl.dat
+D:/Users/WM/Documents/app_1hr/build/windows/runner/Release/flutter_windows.dll
+D:/Users/WM/Documents/app_1hr/build/windows/runner/Release/data/flutter_assets/AssetManifest.json
+D:/Users/WM/Documents/app_1hr/build/windows/runner/Release/data/flutter_assets/FontManifest.json
+D:/Users/WM/Documents/app_1hr/build/windows/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Users/WM/Documents/app_1hr/build/windows/runner/Release/data/flutter_assets/images/family.jpg
+D:/Users/WM/Documents/app_1hr/build/windows/runner/Release/data/flutter_assets/NOTICES.Z
+D:/Users/WM/Documents/app_1hr/build/windows/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/Users/WM/Documents/app_1hr/build/windows/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+D:/Users/WM/Documents/app_1hr/build/windows/runner/Release/data/app.so
